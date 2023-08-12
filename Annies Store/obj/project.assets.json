@@ -1,0 +1,428 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.7.2": {
+      "System.Drawing.Common/7.0.0-preview.1.22076.8": {
+        "type": "package",
+        "compile": {
+          "lib/net462/System.Drawing.Common.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net462/System.Drawing.Common.dll": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "buildTransitive/net462/_._": {}
+        }
+      },
+      "System.Drawing.Primitives/4.3.0": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System.Drawing",
+          "mscorlib"
+        ],
+        "compile": {
+          "ref/net45/System.Drawing.Primitives.dll": {}
+        },
+        "runtime": {
+          "lib/net45/System.Drawing.Primitives.dll": {}
+        }
+      },
+      "Capa de datos/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "Capa Entidad": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Capa de datos.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Capa de datos.dll": {}
+        }
+      },
+      "Capa Entidad/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/Capa Entidad.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Capa Entidad.dll": {}
+        }
+      },
+      "Capa Negocio/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "Capa Entidad": "1.0.0",
+          "Capa de datos": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Capa Negocio.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Capa Negocio.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.2/win": {
+      "System.Drawing.Common/7.0.0-preview.1.22076.8": {
+        "type": "package",
+        "compile": {
+          "lib/net462/System.Drawing.Common.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net462/System.Drawing.Common.dll": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "buildTransitive/net462/_._": {}
+        }
+      },
+      "System.Drawing.Primitives/4.3.0": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System.Drawing",
+          "mscorlib"
+        ],
+        "compile": {
+          "ref/net45/System.Drawing.Primitives.dll": {}
+        },
+        "runtime": {
+          "lib/net45/System.Drawing.Primitives.dll": {}
+        }
+      },
+      "Capa de datos/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "Capa Entidad": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Capa de datos.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Capa de datos.dll": {}
+        }
+      },
+      "Capa Entidad/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/Capa Entidad.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Capa Entidad.dll": {}
+        }
+      },
+      "Capa Negocio/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "Capa Entidad": "1.0.0",
+          "Capa de datos": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Capa Negocio.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Capa Negocio.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.2/win-x64": {
+      "System.Drawing.Common/7.0.0-preview.1.22076.8": {
+        "type": "package",
+        "compile": {
+          "lib/net462/System.Drawing.Common.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net462/System.Drawing.Common.dll": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "buildTransitive/net462/_._": {}
+        }
+      },
+      "System.Drawing.Primitives/4.3.0": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System.Drawing",
+          "mscorlib"
+        ],
+        "compile": {
+          "ref/net45/System.Drawing.Primitives.dll": {}
+        },
+        "runtime": {
+          "lib/net45/System.Drawing.Primitives.dll": {}
+        }
+      },
+      "Capa de datos/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "Capa Entidad": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Capa de datos.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Capa de datos.dll": {}
+        }
+      },
+      "Capa Entidad/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/Capa Entidad.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Capa Entidad.dll": {}
+        }
+      },
+      "Capa Negocio/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "Capa Entidad": "1.0.0",
+          "Capa de datos": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Capa Negocio.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Capa Negocio.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.2/win-x86": {
+      "System.Drawing.Common/7.0.0-preview.1.22076.8": {
+        "type": "package",
+        "compile": {
+          "lib/net462/System.Drawing.Common.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net462/System.Drawing.Common.dll": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "buildTransitive/net462/_._": {}
+        }
+      },
+      "System.Drawing.Primitives/4.3.0": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System.Drawing",
+          "mscorlib"
+        ],
+        "compile": {
+          "ref/net45/System.Drawing.Primitives.dll": {}
+        },
+        "runtime": {
+          "lib/net45/System.Drawing.Primitives.dll": {}
+        }
+      },
+      "Capa de datos/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "Capa Entidad": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Capa de datos.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Capa de datos.dll": {}
+        }
+      },
+      "Capa Entidad/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/Capa Entidad.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Capa Entidad.dll": {}
+        }
+      },
+      "Capa Negocio/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "Capa Entidad": "1.0.0",
+          "Capa de datos": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Capa Negocio.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Capa Negocio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "System.Drawing.Common/7.0.0-preview.1.22076.8": {
+      "sha512": "pLk5FX9vmSJL3/3hkdnkpMXTFI56iBZo3sU1mExFU6BlR2YWEYLjZT3WenSVJr2X4HW+ND5FM6zfb/YCLnknuA==",
+      "type": "package",
+      "path": "system.drawing.common/7.0.0-preview.1.22076.8",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "buildTransitive/net461/System.Drawing.Common.targets",
+        "buildTransitive/net462/_._",
+        "buildTransitive/net6.0/_._",
+        "buildTransitive/netcoreapp2.0/System.Drawing.Common.targets",
+        "lib/MonoAndroid10/_._",
+        "lib/MonoTouch10/_._",
+        "lib/net462/System.Drawing.Common.dll",
+        "lib/net462/System.Drawing.Common.xml",
+        "lib/net6.0/System.Drawing.Common.dll",
+        "lib/net6.0/System.Drawing.Common.xml",
+        "lib/net7.0/System.Drawing.Common.dll",
+        "lib/net7.0/System.Drawing.Common.xml",
+        "lib/netstandard2.0/System.Drawing.Common.dll",
+        "lib/netstandard2.0/System.Drawing.Common.xml",
+        "lib/xamarinios10/_._",
+        "lib/xamarinmac20/_._",
+        "lib/xamarintvos10/_._",
+        "lib/xamarinwatchos10/_._",
+        "runtimes/unix/lib/net6.0/System.Drawing.Common.dll",
+        "runtimes/unix/lib/net6.0/System.Drawing.Common.xml",
+        "runtimes/unix/lib/net7.0/System.Drawing.Common.dll",
+        "runtimes/unix/lib/net7.0/System.Drawing.Common.xml",
+        "runtimes/win/lib/net6.0/System.Drawing.Common.dll",
+        "runtimes/win/lib/net6.0/System.Drawing.Common.xml",
+        "runtimes/win/lib/net7.0/System.Drawing.Common.dll",
+        "runtimes/win/lib/net7.0/System.Drawing.Common.xml",
+        "system.drawing.common.7.0.0-preview.1.22076.8.nupkg.sha512",
+        "system.drawing.common.nuspec",
+        "useSharedDesignerContext.txt"
+      ]
+    },
+    "System.Drawing.Primitives/4.3.0": {
+      "sha512": "1QU/c35gwdhvj77fkScXQQbjiVAqIL3fEYn/19NE0CV/ic5TN5PyWAft8HsrbRd4SBLEoErNCkWSzMDc0MmbRw==",
+      "type": "package",
+      "path": "system.drawing.primitives/4.3.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "ThirdPartyNotices.txt",
+        "dotnet_library_license.txt",
+        "lib/MonoAndroid10/_._",
+        "lib/MonoTouch10/_._",
+        "lib/net45/System.Drawing.Primitives.dll",
+        "lib/netstandard1.1/System.Drawing.Primitives.dll",
+        "lib/xamarinios10/_._",
+        "lib/xamarinmac20/_._",
+        "lib/xamarintvos10/_._",
+        "lib/xamarinwatchos10/_._",
+        "ref/MonoAndroid10/_._",
+        "ref/MonoTouch10/_._",
+        "ref/net45/System.Drawing.Primitives.dll",
+        "ref/netstandard1.1/System.Drawing.Primitives.dll",
+        "ref/xamarinios10/_._",
+        "ref/xamarinmac20/_._",
+        "ref/xamarintvos10/_._",
+        "ref/xamarinwatchos10/_._",
+        "system.drawing.primitives.4.3.0.nupkg.sha512",
+        "system.drawing.primitives.nuspec"
+      ]
+    },
+    "Capa de datos/1.0.0": {
+      "type": "project",
+      "path": "../Capa de datos/Capa de datos.csproj",
+      "msbuildProject": "../Capa de datos/Capa de datos.csproj"
+    },
+    "Capa Entidad/1.0.0": {
+      "type": "project",
+      "path": "../Capa Entidad/Capa Entidad.csproj",
+      "msbuildProject": "../Capa Entidad/Capa Entidad.csproj"
+    },
+    "Capa Negocio/1.0.0": {
+      "type": "project",
+      "path": "../Capa Negocio/Capa Negocio.csproj",
+      "msbuildProject": "../Capa Negocio/Capa Negocio.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.7.2": [
+      "Capa Entidad >= 1.0.0",
+      "Capa Negocio >= 1.0.0",
+      "System.Drawing.Common >= 7.0.0-preview.1.22076.8",
+      "System.Drawing.Primitives >= 4.3.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\javie\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Proyectos\\WPF\\Annies Store\\Annies Store\\Capa Presentación.csproj",
+      "projectName": "Annies Store",
+      "projectPath": "D:\\Proyectos\\WPF\\Annies Store\\Annies Store\\Capa Presentación.csproj",
+      "packagesPath": "C:\\Users\\javie\\.nuget\\packages\\",
+      "outputPath": "D:\\Proyectos\\WPF\\Annies Store\\Annies Store\\obj\\",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\javie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net472"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net472": {
+          "projectReferences": {
+            "D:\\Proyectos\\WPF\\Annies Store\\Capa Entidad\\Capa Entidad.csproj": {
+              "projectPath": "D:\\Proyectos\\WPF\\Annies Store\\Capa Entidad\\Capa Entidad.csproj"
+            },
+            "D:\\Proyectos\\WPF\\Annies Store\\Capa Negocio\\Capa Negocio.csproj": {
+              "projectPath": "D:\\Proyectos\\WPF\\Annies Store\\Capa Negocio\\Capa Negocio.csproj"
+            }
+          }
+        }
+      }
+    },
+    "frameworks": {
+      "net472": {
+        "dependencies": {
+          "System.Drawing.Common": {
+            "target": "Package",
+            "version": "[7.0.0-preview.1.22076.8, )"
+          },
+          "System.Drawing.Primitives": {
+            "target": "Package",
+            "version": "[4.3.0, )"
+          }
+        }
+      }
+    },
+    "runtimes": {
+      "win": {
+        "#import": []
+      },
+      "win-x64": {
+        "#import": []
+      },
+      "win-x86": {
+        "#import": []
+      }
+    }
+  }
+}

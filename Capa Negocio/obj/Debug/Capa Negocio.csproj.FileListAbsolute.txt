@@ -1,0 +1,21 @@
+C:\Users\javierbm.ATISS\source\repos\Annies Store\Capa Negocio\obj\Debug\Capa Negocio.csproj.CoreCompileInputs.cache
+C:\Users\javierbm.ATISS\source\repos\Annies Store\Capa Negocio\bin\Debug\Capa Negocio.dll
+C:\Users\javierbm.ATISS\source\repos\Annies Store\Capa Negocio\bin\Debug\Capa Negocio.pdb
+C:\Users\javierbm.ATISS\source\repos\Annies Store\Capa Negocio\bin\Debug\Capa de datos.dll
+C:\Users\javierbm.ATISS\source\repos\Annies Store\Capa Negocio\bin\Debug\Capa Entidad.dll
+C:\Users\javierbm.ATISS\source\repos\Annies Store\Capa Negocio\bin\Debug\Capa de datos.pdb
+C:\Users\javierbm.ATISS\source\repos\Annies Store\Capa Negocio\bin\Debug\Capa Entidad.pdb
+C:\Users\javierbm.ATISS\source\repos\Annies Store\Capa Negocio\obj\Debug\Capa Negocio.csprojResolveAssemblyReference.cache
+C:\Users\javierbm.ATISS\source\repos\Annies Store\Capa Negocio\obj\Debug\Capa Negocio.dll
+C:\Users\javierbm.ATISS\source\repos\Annies Store\Capa Negocio\obj\Debug\Capa Negocio.pdb
+D:\Proyectos\WPF\Annies Store\Capa Negocio\bin\Debug\Capa Negocio.dll
+D:\Proyectos\WPF\Annies Store\Capa Negocio\bin\Debug\Capa Negocio.pdb
+D:\Proyectos\WPF\Annies Store\Capa Negocio\bin\Debug\Capa de datos.dll
+D:\Proyectos\WPF\Annies Store\Capa Negocio\bin\Debug\Capa Entidad.dll
+D:\Proyectos\WPF\Annies Store\Capa Negocio\bin\Debug\Capa de datos.pdb
+D:\Proyectos\WPF\Annies Store\Capa Negocio\bin\Debug\Capa Entidad.pdb
+D:\Proyectos\WPF\Annies Store\Capa Negocio\obj\Debug\Capa Negocio.csproj.CoreCompileInputs.cache
+D:\Proyectos\WPF\Annies Store\Capa Negocio\obj\Debug\Capa Negocio.csproj.CopyComplete
+D:\Proyectos\WPF\Annies Store\Capa Negocio\obj\Debug\Capa Negocio.dll
+D:\Proyectos\WPF\Annies Store\Capa Negocio\obj\Debug\Capa Negocio.pdb
+D:\Proyectos\WPF\Annies Store\Capa Negocio\obj\Debug\Capa Negocio.csproj.AssemblyReference.cache

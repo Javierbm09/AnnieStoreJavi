@@ -1,0 +1,128 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Proyectos\\WPF\\Annies Store\\Annies Store\\Capa Presentación.csproj": {}
+  },
+  "projects": {
+    "D:\\Proyectos\\WPF\\Annies Store\\Annies Store\\Capa Presentación.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Proyectos\\WPF\\Annies Store\\Annies Store\\Capa Presentación.csproj",
+        "projectName": "Annies Store",
+        "projectPath": "D:\\Proyectos\\WPF\\Annies Store\\Annies Store\\Capa Presentación.csproj",
+        "packagesPath": "C:\\Users\\javie\\.nuget\\packages\\",
+        "outputPath": "D:\\Proyectos\\WPF\\Annies Store\\Annies Store\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\javie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "D:\\Proyectos\\WPF\\Annies Store\\Capa Entidad\\Capa Entidad.csproj": {
+                "projectPath": "D:\\Proyectos\\WPF\\Annies Store\\Capa Entidad\\Capa Entidad.csproj"
+              },
+              "D:\\Proyectos\\WPF\\Annies Store\\Capa Negocio\\Capa Negocio.csproj": {
+                "projectPath": "D:\\Proyectos\\WPF\\Annies Store\\Capa Negocio\\Capa Negocio.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[7.0.0-preview.1.22076.8, )"
+            },
+            "System.Drawing.Primitives": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "D:\\Proyectos\\WPF\\Annies Store\\Capa de datos\\Capa de datos.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\Proyectos\\WPF\\Annies Store\\Capa de datos\\Capa de datos.csproj",
+        "projectName": "Capa de datos",
+        "projectPath": "D:\\Proyectos\\WPF\\Annies Store\\Capa de datos\\Capa de datos.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "D:\\Proyectos\\WPF\\Annies Store\\Capa Entidad\\Capa Entidad.csproj": {
+                "projectPath": "D:\\Proyectos\\WPF\\Annies Store\\Capa Entidad\\Capa Entidad.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "D:\\Proyectos\\WPF\\Annies Store\\Capa Entidad\\Capa Entidad.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\Proyectos\\WPF\\Annies Store\\Capa Entidad\\Capa Entidad.csproj",
+        "projectName": "Capa Entidad",
+        "projectPath": "D:\\Proyectos\\WPF\\Annies Store\\Capa Entidad\\Capa Entidad.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "D:\\Proyectos\\WPF\\Annies Store\\Capa Negocio\\Capa Negocio.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\Proyectos\\WPF\\Annies Store\\Capa Negocio\\Capa Negocio.csproj",
+        "projectName": "Capa Negocio",
+        "projectPath": "D:\\Proyectos\\WPF\\Annies Store\\Capa Negocio\\Capa Negocio.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "D:\\Proyectos\\WPF\\Annies Store\\Capa de datos\\Capa de datos.csproj": {
+                "projectPath": "D:\\Proyectos\\WPF\\Annies Store\\Capa de datos\\Capa de datos.csproj"
+              },
+              "D:\\Proyectos\\WPF\\Annies Store\\Capa Entidad\\Capa Entidad.csproj": {
+                "projectPath": "D:\\Proyectos\\WPF\\Annies Store\\Capa Entidad\\Capa Entidad.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}

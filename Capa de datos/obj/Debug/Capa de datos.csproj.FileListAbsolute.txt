@@ -1,0 +1,17 @@
+C:\Users\javierbm.ATISS\source\repos\Annies Store\Capa de datos\obj\Debug\Capa de datos.csprojResolveAssemblyReference.cache
+C:\Users\javierbm.ATISS\source\repos\Annies Store\Capa de datos\obj\Debug\Capa de datos.csproj.CoreCompileInputs.cache
+C:\Users\javierbm.ATISS\source\repos\Annies Store\Capa de datos\bin\Debug\Capa de datos.dll
+C:\Users\javierbm.ATISS\source\repos\Annies Store\Capa de datos\bin\Debug\Capa de datos.pdb
+C:\Users\javierbm.ATISS\source\repos\Annies Store\Capa de datos\bin\Debug\Capa Entidad.dll
+C:\Users\javierbm.ATISS\source\repos\Annies Store\Capa de datos\bin\Debug\Capa Entidad.pdb
+C:\Users\javierbm.ATISS\source\repos\Annies Store\Capa de datos\obj\Debug\Capa de datos.dll
+C:\Users\javierbm.ATISS\source\repos\Annies Store\Capa de datos\obj\Debug\Capa de datos.pdb
+D:\Proyectos\WPF\Annies Store\Capa de datos\bin\Debug\Capa de datos.dll
+D:\Proyectos\WPF\Annies Store\Capa de datos\bin\Debug\Capa de datos.pdb
+D:\Proyectos\WPF\Annies Store\Capa de datos\bin\Debug\Capa Entidad.dll
+D:\Proyectos\WPF\Annies Store\Capa de datos\bin\Debug\Capa Entidad.pdb
+D:\Proyectos\WPF\Annies Store\Capa de datos\obj\Debug\Capa de datos.csproj.CoreCompileInputs.cache
+D:\Proyectos\WPF\Annies Store\Capa de datos\obj\Debug\Capa de datos.csproj.CopyComplete
+D:\Proyectos\WPF\Annies Store\Capa de datos\obj\Debug\Capa de datos.dll
+D:\Proyectos\WPF\Annies Store\Capa de datos\obj\Debug\Capa de datos.pdb
+D:\Proyectos\WPF\Annies Store\Capa de datos\obj\Debug\Capa de datos.csproj.AssemblyReference.cache

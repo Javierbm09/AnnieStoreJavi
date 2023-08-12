@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "U6WHzMbjkHI+LbrDYGZNvfG4jbQ0fcz6PZC83yke/UNUlLj5qvTdSH25Dg/Bum5IicQEdgYl2i+oU9e6hnkTwA==",
+  "success": true,
+  "projectFilePath": "D:\\Proyectos\\WPF\\Annies Store\\Annies Store\\Capa Presentación.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\javie\\.nuget\\packages\\system.drawing.common\\7.0.0-preview.1.22076.8\\system.drawing.common.7.0.0-preview.1.22076.8.nupkg.sha512",
+    "C:\\Users\\javie\\.nuget\\packages\\system.drawing.primitives\\4.3.0\\system.drawing.primitives.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
